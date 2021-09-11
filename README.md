@@ -2,6 +2,9 @@
 
 This is not an app. I will build an architecture in this repository to build robust and easy-to-maintain products but in a faster way.
 
+## Info
+I'm going to use https://jsonplaceholder.typicode.com to make this project.
+
 ## Why did I create this repository?
 
 Having strong, robust architectures that follow all the principles is actually pretty good but recently I feel like it's a bit overkill for most projects. Even though I love to make complicated and strong applications, I need to build products fast, and obviously having complicated architectures that have many folders and abstract classes is not the way to do it. So, nowadays I'm more prone to follow the "YAGNI" and "KISS" principles and focus on building products fast while paying attention to writing clean code.
