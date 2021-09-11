@@ -1,5 +1,7 @@
 import 'package:dio/dio.dart';
-import 'package:simple_architecture_flutter/core/custom_results/result_type.dart';
+import 'package:simple_architecture_flutter/core/custom_types/result_type/result_type.dart';
+
+
 import 'package:simple_architecture_flutter/core/network/contracts/base_network_model.dart';
 import 'package:simple_architecture_flutter/core/network/contracts/client_generator.dart';
 import 'package:simple_architecture_flutter/core/network/error/network_error.dart';
