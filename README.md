@@ -18,6 +18,14 @@ I'm going to simplify my old architecture which is actually quite enough for big
 
 I don't say that this is going to be the best architecture for building projects. But I can say that if you want to build products in a fast way while paying attention to maintainability and clean code, then this repository can be the one for you.
 
+## Things that I'll handle
+
+- Feature Architecture (Data, Domain, Presentation layers) - [Current]
+- ViewModels and state management - [Current]
+- Navigation - [Later]
+- Theming - [Later]
+- Dependency Injection - [Later]
+- Localization - [Later]
 
 ## Contribution
 
