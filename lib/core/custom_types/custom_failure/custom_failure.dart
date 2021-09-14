@@ -1,4 +1,4 @@
-class CustomFailure {
+class CustomFailure{
   CustomFailure({
     required this.messsage,
   });

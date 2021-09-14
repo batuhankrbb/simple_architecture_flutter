@@ -1,5 +1,5 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:simple_architecture_flutter/core/custom_types/custom_failure.dart';
+import 'package:simple_architecture_flutter/core/custom_types/custom_failure/custom_failure.dart';
 
 part 'screen_result_type.freezed.dart';
 

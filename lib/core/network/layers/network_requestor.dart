@@ -4,9 +4,9 @@ import 'package:dio/dio.dart';
 import 'package:simple_architecture_flutter/core/network/contracts/client_generator.dart';
 
 class NetworkRequestor {
-  NetworkRequestor._privateConstructor();
+  NetworkRequestor._();
 
-  static var shared = NetworkRequestor._privateConstructor();
+  static var shared = NetworkRequestor._();
 
   var _dioClient = Dio();
 

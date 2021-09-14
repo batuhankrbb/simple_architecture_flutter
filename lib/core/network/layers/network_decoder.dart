@@ -3,9 +3,9 @@ import 'package:simple_architecture_flutter/core/network/contracts/base_network_
 
 
 class NetworkDecoder {
-  NetworkDecoder._privateConstructor();
+  NetworkDecoder._();
 
-  static var shared = NetworkDecoder._privateConstructor();
+  static var shared = NetworkDecoder._();
 
   K decode<T extends BaseNetworkModel, K>(
       {required Response<dynamic> response, required T responseType}) {
